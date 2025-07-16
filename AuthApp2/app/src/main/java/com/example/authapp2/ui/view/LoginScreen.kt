@@ -122,7 +122,7 @@ fun LoginScreen(viewModel: AuthViewModel, navController: NavController) {
                     colors = ButtonDefaults.buttonColors(containerColor = MaterialTheme.colorScheme.primary)
                 ) {
                     Icon(
-                        painter = painterResource(id = R.drawable.logo_google),
+                        painter = painterResource(id = R.drawable.icon),
                         contentDescription = "Google Login",
                         modifier = Modifier.size(24.dp),
                         tint = MaterialTheme.colorScheme.onPrimary
