@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "894423594052",
+    "firebase_url": "https://msgapp7262-default-rtdb.firebaseio.com",
+    "project_id": "msgapp7262",
+    "storage_bucket": "msgapp7262.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894423594052:android:b3fa0206e2c54c10897811",
+        "android_client_info": {
+          "package_name": "com.example.msgapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrO4sNS-wSBqtL2grVyjBVEc2chBC1xR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
